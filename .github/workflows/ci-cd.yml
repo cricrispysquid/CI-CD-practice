@@ -92,5 +92,3 @@ jobs:
           asset_path: ./linear_model.txt
           asset_name: linear_model.txt
           asset_content_type: text/plain
-
-  
